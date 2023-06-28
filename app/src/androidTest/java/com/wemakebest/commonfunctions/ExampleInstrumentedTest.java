@@ -1,4 +1,4 @@
-package com.wemakebest.sampleapp;
+package com.wemakebest.commonfunctions;
 
 import android.content.Context;
 

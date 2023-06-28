@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "CommonFunctions"
 include ':app'
-include ':commonfunctions'
